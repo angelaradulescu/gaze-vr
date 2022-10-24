@@ -1,0 +1,106 @@
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Airplane.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Allergy Pills.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Apple.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Bacon.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Banana.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Beans.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 10.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 4.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 5.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 6.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 7.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 8.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Block 9.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 10.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 11.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 12.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 4.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 5.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 6.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 7.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 8.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Book 9.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Bread.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Candle.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Candlestick.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Carrot.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Clipboard.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Coconut.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Coffee.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 4.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 5.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Crayon 6.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Cup.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Cylinder 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Cylinder 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Cylinder 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Cylinder 4.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Dodecahedron.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Donut 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Donut 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Eraser.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Gold.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Helmet.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Juice Box.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Key.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Knight.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Laptop.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Left Shoe.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Magazine 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Magazine 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Marker 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Marker 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Marker 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Marker 4.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Milk Carton 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Milk Carton 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Milk Carton 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Mug.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Notebook.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Oil Bottle 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Oil Bottle 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Oil Carafe 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Oil Carafe 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Paint Can.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Paper Bag.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Paper Box.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Paper.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pear.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pen.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pencil 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pencil 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Phone.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Picture 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Picture 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pills.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Pizza Box.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Plastic Box 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Plastic Box 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Raw meat.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Right Shoe.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Rubber Duck.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Scissors.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Smartphone.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Soccer Ball.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Soda Can.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Takeout Box.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Tea Box.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Teabag.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Tomato.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Towel.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Train.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Vase 1.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Vase 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Vase 3.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Water Bottle 2.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Water Bottle.png
+/Users/angelaradulescu/Dropbox/NYU/Research/TaskVR/VisualSearchGazeData/objects/Assets_actual/Yogurt.png
